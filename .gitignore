@@ -130,6 +130,15 @@ ENV/
 env.bak/
 venv.bak/
 
+app.py
+check.py
+graph_output.png
+imports.py
+w.html
+w.py
+imports.py
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
